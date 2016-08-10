@@ -51,8 +51,6 @@ captures/
 .idea/modules.xml
 .idea/runConfigurations.xml
 AnimationsDemo.iml
-build.gradle
-gradle/
 gradlew
 gradlew.bat
 import-summary.txt
